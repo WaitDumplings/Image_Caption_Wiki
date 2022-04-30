@@ -19,10 +19,13 @@ https://drive.google.com/file/d/1oh_hs1gSZdEBugpT3qkyqeXvePo92jAX/view?usp=shari
 
 ## How to use
 ## Train:
-### Step one: pip relative packages in Main.py
-### Step two: keep word map, pre_trained weight and Main.py in the same root
+### Step one: 
+pip relative packages in Main.py
+### Step two: 
+keep word map, pre_trained weight and Main.py in the same root
 
 ## Inferrence:
-### Keep pre_trained weight, word_map in inferrence.py in the same root, set image_path as the path of the image you want to predict.
+Keep pre_trained weight, word_map in inferrence.py in the same root, set image_path as the path of the image you want to predict.
 
 ## Colab path
+https://colab.research.google.com/drive/1rzY7XMB297HT-CxsA3vBXdeoWiDIGloR?usp=sharing
