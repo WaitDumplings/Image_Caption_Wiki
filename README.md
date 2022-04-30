@@ -7,7 +7,7 @@ root directory
 	├── model.py               # construct Encoder(ResNet101), Attention, Decoder(LSTM)
 	├── Main.py                # main function to train a model
 	├── utils.py               # helper functions
-	├──Wiki_Dataset.py	   # customized dataset
+	├── Wiki_Dataset.py	   # customized dataset
 	└── inferrence.py          # predict with one image
 ```
 
