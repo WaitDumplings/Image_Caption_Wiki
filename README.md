@@ -27,5 +27,5 @@ keep word map, pre_trained weight and Main.py in the same root
 ## Inferrence:
 Keep pre_trained weight, word_map in inferrence.py in the same root, set image_path as the path of the image you want to predict.
 
-## Colab path
+## Colab Link
 https://colab.research.google.com/drive/1rzY7XMB297HT-CxsA3vBXdeoWiDIGloR?usp=sharing
